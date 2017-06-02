@@ -1,0 +1,33 @@
+{
+  "name": "jobsity-demo-cinco",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "install": "^0.10.1",
+    "material-ui": "^0.18.1",
+    "material-ui-chip-input": "^0.14.0",
+    "npm": "^4.6.1",
+    "react": "^15.5.4",
+    "react-addons-update": "^15.5.2",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.6.0",
+    "tcomb": "^3.2.20",
+    "tcomb-form": "^0.9.16",
+    "tcomb-validation":"^3.3.0",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
